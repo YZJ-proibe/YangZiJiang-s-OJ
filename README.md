@@ -1,2 +1,2 @@
 # YangZiJiang-s-OJ
-write a OJ
+Frist write a OJ
